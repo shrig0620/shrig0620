@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @shrig0620
-- 👀 I’m interested in Web Development
-- 💞️ I’m looking to collaborate on Web Development Projects
-- 📫 How to reach me through Linkedin
-- 😄 Pronouns: shr/her
-- ⚡ Fun fact: The First Computer “Bug” Was a Real Bug
+<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML logo"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS logo"/>
+<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript logo"/>
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python logo"/>
+<img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP logo"/>
+<img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL logo"/>
+
 
 [![](https://visitcount.itsvg.in/api?id=shrig0620&label=Profile%20Views&color=11&pretty=false)](https://visitcount.itsvg.in)
