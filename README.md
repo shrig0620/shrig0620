@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I'm Pushbashri G</h2>
 
-<h2 align="center"> I’m currently learning Full Stack Development</h2>
+<h2 align="center"> I’m a Full Stack Developer </h2>
 
 # 💻 My Tech Skills
 | HTML | CSS | JavaScript | Python | PHP | MySQL |
