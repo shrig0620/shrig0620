@@ -20,7 +20,7 @@
 - 🏅 Campus Ambassador | Student Leader | Tech Speaker
 - 💬 Ask me about **Web Dev, UI/UX Design, Freelancing & Tech Events**
 - 🔗 Portfolio: *Coming Soon...*
-- 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/pushbashri-g/)
+- 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/pushba-shri-g/)
 
 ---
 
